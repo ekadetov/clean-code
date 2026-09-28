@@ -1,0 +1,17 @@
+{
+  "name": "clean-code",
+  "owner": {
+    "name": "ekadetov"
+  },
+  "metadata": {
+    "description": "Language-agnostic Clean Code rule catalog for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "clean-code",
+      "description": "Robert C. Martin's Clean Code rule catalog, language-agnostic.",
+      "source": "./"
+    }
+  ]
+}

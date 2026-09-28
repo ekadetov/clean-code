@@ -1,0 +1,11 @@
+{
+  "name": "clean-code",
+  "description": "Robert C. Martin's Clean Code rule catalog (names, functions, comments, general principles, tests, language idioms), language-agnostic — works in Java, Python, TypeScript, Go, or anything else.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ekadetov"
+  },
+  "repository": "https://github.com/ekadetov/clean-code",
+  "license": "MIT",
+  "keywords": ["clean-code", "code-review", "naming", "refactoring", "testing"]
+}
